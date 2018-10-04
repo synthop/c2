@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e616664b-2436-4d4d-9a5f-c7bd5b5e4f76" name="Default Changelist" comment="models, admin, form">
+    <list default="true" id="e616664b-2436-4d4d-9a5f-c7bd5b5e4f76" name="Default Changelist" comment="test">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/landing/admin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/landing/migrations/0001_initial.py" afterDir="false" />
@@ -56,7 +56,7 @@
           <entry key="html" value="542" />
           <entry key="py" value="628" />
           <entry key="py@c2" value="241" />
-          <entry key="txt" value="67" />
+          <entry key="txt" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -64,7 +64,7 @@
           <entry key="CSS" value="53" />
           <entry key="CommandLine" value="198" />
           <entry key="HTML" value="542" />
-          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="PLAIN_TEXT" value="119" />
           <entry key="Python" value="628" />
         </counts>
       </usages-collector>
@@ -155,7 +155,7 @@
         <entry file="file://$PROJECT_DIR$/c2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="131" column="3" lean-forward="true" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="3" />
+              <caret line="131" column="8" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -235,7 +235,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="180" />
     <option name="y" value="154" />
     <option name="width" value="2394" />
@@ -362,7 +362,7 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -373,8 +373,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41619432" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41619432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -383,7 +384,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.40035588" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.40035588" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="manage.py@c2" order="9" visible="true" weight="0.32562277" />
@@ -409,7 +410,8 @@
     <MESSAGE value="test form" />
     <MESSAGE value="form on bootstrap" />
     <MESSAGE value="models, admin, form" />
-    <option name="LAST_COMMIT_MESSAGE" value="models, admin, form" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
@@ -542,7 +544,7 @@
     <entry file="file://$PROJECT_DIR$/c2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="131" column="3" lean-forward="true" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="3" />
+          <caret line="131" column="8" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
         </state>
       </provider>
     </entry>
