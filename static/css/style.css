@@ -37,3 +37,7 @@ html, body{
 .title{
     text-align: center;
 }
+
+.input{
+    padding-left: 10px;
+}
